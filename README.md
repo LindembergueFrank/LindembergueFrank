@@ -16,9 +16,8 @@ Atualmente atuo como bolsista de iniciação cientícia no Núcleo de Pesquisa e
 
 <img src="https://img.icons8.com/color/344/html-5--v1.png" width="40" height="40"/> <img src="https://img.icons8.com/color/344/css3.png" width="40" height="40"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="40" height="40"/> <img src="https://img.icons8.com/color/344/wordpress.png" width="40" height="40"/> <img src="https://img.icons8.com/external-others-iconmarket/344/external-cpp-file-types-others-iconmarket-4.png" width="40" height="40"/>
 
-### Contatos:
+### Contato:
 
 <div>
-<a href = "mailto:contato@LindembergFrank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lindembergue-frank-a99239117" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
