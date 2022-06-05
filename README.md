@@ -10,7 +10,7 @@ Meu nome é Lindembergue, vulgo Bergue, moro no estado do Rio Grande do Norte e 
 
 Na vida acadêmica estou aprendendo mais a fundo sobre sistemas embarcados, e a interação de objetos físicos aplicados a tecnologias com finalidade de conexão e troca de informações entre dispositivos e sistemas, usando a internet (IoT). Em paralelo, estudo tecnologias para desenvolvimento web, tais como: HTML, CSS, WordPress, JavaScript, PHP, NodeJs, SQL, Apache, Angular e React. Inicialmente são essas linguagens que utilizo, mais em baixo informo as que tenho maior conhecimento e conjuntura para aplica-lás.
 
-Atualmente atuo como bolsista de iniciação cientícia no Núcleo de Pesquisa e Inovação em Tecnologia da Informação (nPITI/IMD), mas precisamente com a utilização de sistemas embarcados aplicaddos a realidade. Minhas experiências com desenvolvimento web foram apenas pessoais, com intuito de aprendizado e curiosidade nas suas aplicações. Caso haja interesse, basta me contatar, grato desde já!
+Atualmente atuo como bolsista de iniciação cientícia no Núcleo de Pesquisa e Inovação em Tecnologia da Informação (nPITI/IMD), mais precisamente com a utilização de sistemas embarcados aplicados. Minhas experiências com desenvolvimento web foram apenas pessoais, com intuito de aprendizado e curiosidade nas suas aplicações. Caso haja interesse, basta me contatar, grato desde já!
 
 ### Ferramentas e Tecnologias:
 
@@ -20,5 +20,5 @@ Atualmente atuo como bolsista de iniciação cientícia no Núcleo de Pesquisa e
 
 <div>
 <a href = "mailto:contato@LindembergFrank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/LindembergueFrank" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/lindembergue-frank-a99239117" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
