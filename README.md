@@ -1,50 +1,87 @@
 <h1 align="center">Lindembergue Frank</h1>
 
-<h3 align="center">Infraestrutura de TI • Backend • Redes • Sistemas</h3>
+<h3 align="center">Backend Java Developer • Infraestrutura de TI</h3>
 
 <p align="center">
-  Transformando necessidades reais em soluções de infraestrutura, software e tecnologia.
+  Java • Spring Boot • PostgreSQL • Docker &nbsp;|&nbsp; Redes • Windows Server • Active Directory
 </p>
 
 <p align="center">
-  <a href="https://vianux.com.br"><img src="https://img.shields.io/badge/ViaNux-Soluções%20Tecnológicas-0A66C2?style=for-the-badge" alt="ViaNux"></a>
+  Desenvolvo soluções de software com visão prática de infraestrutura, conectando backend, dados, redes e ambientes corporativos.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lindembergue-frank-b991202b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://vianux.com.br">
+    <img src="https://img.shields.io/badge/ViaNux-Soluções%20Tecnológicas-2563EB?style=for-the-badge" alt="ViaNux">
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Perfil profissional
 
-Profissional de Tecnologia da Informação com atuação em **infraestrutura, suporte técnico, redes, administração de ambientes Windows e desenvolvimento de sistemas**.
+Atuo entre **desenvolvimento backend e infraestrutura de TI**, com foco em construir soluções aplicáveis a ambientes reais de negócio.
 
-- 🎓 Graduado em **Ciência e Tecnologia**
-- 📡 Graduando em **Engenharia de Telecomunicações**
-- ☕ Desenvolvimento backend com **Java, Spring Boot e APIs REST**
-- 🗄️ Banco de dados com **PostgreSQL e JPA/Hibernate**
-- 🌐 Experiência com **redes, Windows Server, Active Directory e GPO**
-- 🐳 Desenvolvimento e implantação com **Docker**
-- 🚀 Interesse em soluções corporativas, automação, infraestrutura e sistemas web
+- ☕ Desenvolvimento de **APIs REST e sistemas backend com Java e Spring Boot**
+- 🗄️ Persistência e modelagem com **PostgreSQL, JPA e Hibernate**
+- 🐳 Desenvolvimento e implantação de aplicações com **Docker**
+- 🌐 Experiência prática com **redes, troubleshooting e conectividade**
+- 🖥️ Administração de ambientes **Windows Server, Active Directory e GPO**
+- 🔐 Interesse em arquitetura, segurança, automação e sistemas corporativos
+- 🎓 Graduado em **Ciência e Tecnologia** e graduando em **Engenharia de Telecomunicações**
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos selecionados
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ViaNux Soluções Tecnológicas
 
-A **ViaNux** é um projeto voltado ao desenvolvimento de soluções tecnológicas para empresas, conectando **software, infraestrutura e negócios**.
+Projeto voltado à criação de **soluções tecnológicas para empresas**, conectando desenvolvimento de sistemas, automação, infraestrutura e consultoria.
 
-Principais frentes:
+**Foco:** sistemas web sob medida, processos, dashboards, infraestrutura e suporte especializado.
 
-- Desenvolvimento de sistemas web sob medida
-- Automação de processos
-- Dashboards e soluções de gestão
-- Infraestrutura e redes
-- Suporte e consultoria em TI
+<a href="https://vianux.com.br"><b>Conhecer a ViaNux →</b></a>
 
-🌐 **[vianux.com.br](https://vianux.com.br)**
+</td>
+<td width="50%" valign="top">
+
+### Spring Boot + JPA / Hibernate
+
+Web Services para gerenciamento de **usuários, pedidos, produtos e categorias**, aplicando arquitetura em camadas, persistência relacional e tratamento de exceções.
+
+**Stack:** Java • Spring Boot • JPA/Hibernate • H2 • Maven • REST
+
+<a href="https://github.com/LindembergueFrank/SpringBoot-jpa"><b>Ver repositório →</b></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## 🎯 Competências técnicas
+
+| Backend & Dados | Infraestrutura & Operações |
+| --- | --- |
+| Java | Redes TCP/IP |
+| Spring Boot | Windows Server |
+| APIs REST | Active Directory |
+| JPA / Hibernate | Group Policy (GPO) |
+| PostgreSQL | Troubleshooting de rede |
+| SQL | Linux |
+| Maven | Docker |
+| Tratamento de exceções | Git / GitHub |
+
+---
+
+## 🛠️ Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -76,21 +113,14 @@ Principais frentes:
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LindembergueFrank&theme=github_dark" alt="Linguagens por repositório">
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LindembergueFrank&theme=github_dark" alt="Linguagens mais utilizadas em commits">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LindembergueFrank&theme=github_dark&utcOffset=-3" alt="Horário mais produtivo no GitHub">
-</p>
-
 ---
 
-## 💡 Áreas de interesse
+## 🔎 Foco profissional
 
 <p align="center">
-  Backend Development • Infraestrutura de TI • APIs REST • Redes • DevOps • Automação • Windows Server • Linux • Sistemas Corporativos
+  Backend Java &nbsp;•&nbsp; APIs REST &nbsp;•&nbsp; Sistemas Corporativos &nbsp;•&nbsp; Infraestrutura de TI &nbsp;•&nbsp; Redes &nbsp;•&nbsp; Automação
 </p>
 
----
-
 <p align="center">
-  <b>Tecnologia aplicada para resolver problemas reais.</b>
+  <b>Software bem estruturado. Infraestrutura confiável. Soluções para problemas reais.</b>
 </p>
