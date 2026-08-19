@@ -68,12 +68,17 @@ Principais frentes:
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=LindembergueFrank&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindembergueFrank&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LindembergueFrank&theme=github_dark" alt="Resumo do perfil GitHub de Lindembergue Frank">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LindembergueFrank&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LindembergueFrank&theme=github_dark" alt="Estatísticas do GitHub">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LindembergueFrank&theme=github_dark" alt="Linguagens por repositório">
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LindembergueFrank&theme=github_dark" alt="Linguagens mais utilizadas em commits">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LindembergueFrank&theme=github_dark&utcOffset=-3" alt="Horário mais produtivo no GitHub">
 </p>
 
 ---
