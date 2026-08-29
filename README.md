@@ -82,6 +82,8 @@ Além dos projetos públicos, desenvolvo e evoluo **sistemas corporativos e inst
 
 > Por responsabilidade com segurança e confidencialidade, código, credenciais e dados institucionais não são publicados. O portfólio público prioriza demonstrações sanitizadas e projetos autorais equivalentes.
 
+📄 **[Ler case study sanitizado — Plataforma corporativa de atendimento interno](case-studies/plataforma-corporativa-atendimento.md)**
+
 ---
 
 ## 📚 Evolução técnica contínua
