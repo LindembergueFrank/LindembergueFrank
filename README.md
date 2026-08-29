@@ -80,7 +80,12 @@ Além dos projetos públicos, desenvolvo e evoluo **sistemas corporativos e inst
 - Docker, pipelines de CI e validações antes de produção;
 - documentação arquitetural e decisões técnicas.
 
-> Por responsabilidade com segurança e confidencialidade, código, credenciais e dados institucionais não são publicados. O portfólio público prioriza demonstrações sanitizadas e projetos autorais equivalentes.
+### Cases sanitizados
+
+- [Plataforma de Chamados IPEM/RN](case-studies/chamados-ipem-rn.md) — backend Java/Spring, RBAC, segurança, concorrência, migrations, testes e CI.
+- [NetWatch RN](case-studies/netwatch-rn.md) — monitoramento de redes com Django, PostgreSQL, Docker, testes e decisões de confiabilidade.
+
+> Por responsabilidade com segurança e confidencialidade, código, credenciais e dados institucionais não são publicados. Os cases apresentam apenas decisões técnicas e aprendizados que podem ser compartilhados publicamente.
 
 ---
 
