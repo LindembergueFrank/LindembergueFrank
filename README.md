@@ -26,11 +26,12 @@
 Atuo entre **desenvolvimento backend e infraestrutura de TI**, com foco em construir soluções aplicáveis a ambientes reais de negócio.
 
 - ☕ Desenvolvimento de **APIs REST e sistemas backend com Java e Spring Boot**
-- 🗄️ Persistência e modelagem com **PostgreSQL, JPA e Hibernate**
+- 🗄️ Persistência e modelagem com **PostgreSQL, MySQL, JPA e Hibernate**
 - 🐳 Desenvolvimento e implantação de aplicações com **Docker**
+- 🧪 Testes automatizados, integração contínua e evolução orientada a qualidade
 - 🌐 Experiência prática com **redes, troubleshooting e conectividade**
 - 🖥️ Administração de ambientes **Windows Server, Active Directory e GPO**
-- 🔐 Interesse em arquitetura, segurança, automação e sistemas corporativos
+- 🔐 Interesse e prática em arquitetura, segurança, automação e sistemas corporativos
 - 🎓 Graduado em **Ciência e Tecnologia** e graduando em **Engenharia de Telecomunicações**
 
 ---
@@ -52,13 +53,57 @@ Projeto voltado à criação de **soluções tecnológicas para empresas**, cone
 </td>
 <td width="50%" valign="top">
 
-### Spring Boot + JPA / Hibernate
+### API de Investimentos
 
-Web Services para gerenciamento de **usuários, pedidos, produtos e categorias**, aplicando arquitetura em camadas, persistência relacional e tratamento de exceções.
+API REST autoral em evolução com foco em **backend Java e práticas de engenharia**. A baseline atual inclui DTOs seguros, senhas com BCrypt, configuração por ambiente, testes isolados com H2, Docker/MySQL e CI no GitHub Actions.
 
-**Stack:** Java • Spring Boot • JPA/Hibernate • H2 • Maven • REST
+**Stack:** Java 21 • Spring Boot • JPA/Hibernate • MySQL • Docker • JUnit/Mockito • GitHub Actions
 
-<a href="https://github.com/LindembergueFrank/SpringBoot-jpa"><b>Ver repositório →</b></a>
+<a href="https://github.com/LindembergueFrank/API-Investimentos"><b>Ver repositório →</b></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Engenharia aplicada em ambientes reais
+
+Além dos projetos públicos, desenvolvo e evoluo **sistemas corporativos e institucionais com código e dados restritos**. Nesses trabalhos, aplico práticas que não podem ser integralmente expostas em repositórios públicos:
+
+- controle de acesso por perfis e permissões (RBAC);
+- autenticação e segurança com Spring Security/JWT;
+- PostgreSQL e migrations com Flyway;
+- auditoria e rastreabilidade de operações;
+- concorrência e controle otimista de alterações;
+- testes de regressão, integração e regras de negócio;
+- Docker, pipelines de CI e validações antes de produção;
+- documentação arquitetural e decisões técnicas.
+
+> Por responsabilidade com segurança e confidencialidade, código, credenciais e dados institucionais não são publicados. O portfólio público prioriza demonstrações sanitizadas e projetos autorais equivalentes.
+
+---
+
+## 📚 Evolução técnica contínua
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Java
+
+Exercícios progressivos organizados desde fundamentos até POO, Collections, Streams, testes, SOLID e arquitetura, com documentação e commits atômicos.
+
+<a href="https://github.com/LindembergueFrank/Java"><b>Acompanhar evolução →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Kotlin
+
+Trilha progressiva com fundamentos, recursos idiomáticos, programação funcional, coroutines, Flow, testes e engenharia de software.
+
+<a href="https://github.com/LindembergueFrank/Kotlin"><b>Acompanhar evolução →</b></a>
 
 </td>
 </tr>
@@ -70,14 +115,14 @@ Web Services para gerenciamento de **usuários, pedidos, produtos e categorias**
 
 | Backend & Dados | Infraestrutura & Operações |
 | --- | --- |
-| Java | Redes TCP/IP |
-| Spring Boot | Windows Server |
-| APIs REST | Active Directory |
-| JPA / Hibernate | Group Policy (GPO) |
-| PostgreSQL | Troubleshooting de rede |
-| SQL | Linux |
+| Java / Spring Boot | Redes TCP/IP |
+| APIs REST | Windows Server |
+| JPA / Hibernate | Active Directory |
+| PostgreSQL / MySQL | Group Policy (GPO) |
+| SQL / Flyway | Troubleshooting de rede |
+| JUnit / Mockito | Linux |
 | Maven | Docker |
-| Tratamento de exceções | Git / GitHub |
+| CI/CD / GitHub Actions | Git / GitHub |
 
 ---
 
@@ -87,12 +132,14 @@ Web Services para gerenciamento de **usuários, pedidos, produtos e categorias**
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -118,7 +165,7 @@ Web Services para gerenciamento de **usuários, pedidos, produtos e categorias**
 ## 🔎 Foco profissional
 
 <p align="center">
-  Backend Java &nbsp;•&nbsp; APIs REST &nbsp;•&nbsp; Sistemas Corporativos &nbsp;•&nbsp; Infraestrutura de TI &nbsp;•&nbsp; Redes &nbsp;•&nbsp; Automação
+  Backend Java &nbsp;•&nbsp; APIs REST &nbsp;•&nbsp; Sistemas Corporativos &nbsp;•&nbsp; Infraestrutura de TI &nbsp;•&nbsp; Segurança &nbsp;•&nbsp; Automação
 </p>
 
 <p align="center">
