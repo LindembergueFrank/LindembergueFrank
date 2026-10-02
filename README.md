@@ -39,7 +39,8 @@ Atuo entre **desenvolvimento backend e infraestrutura de TI**, com foco em const
 - 🖥️ Administração de ambientes **Windows Server, Active Directory e GPO**
 - 🔐 Interesse e prática em arquitetura, segurança, automação e sistemas corporativos
 - 🎓 Graduado em **Ciência e Tecnologia** e graduando em **Engenharia de Telecomunicações**
-- 🎓 Cursando pós-graduação em **Segurança Digital e Full Stack Cloud Computing**
+- 🎓 Cursando pós-graduação em **Segurança Digital**
+- 🎓 Cursando pós-graduação em **Full Stack Cloud Computing**
 
 ---
 
