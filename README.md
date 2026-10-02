@@ -14,6 +14,12 @@
   <a href="https://www.linkedin.com/in/lindembergue-frank-b991202b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://lindemberguefrank.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-Ver%20projetos-2563EB?style=for-the-badge" alt="Portfólio profissional">
+  </a>
+  <a href="mailto:lindemberg.frank@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Contato-475569?style=for-the-badge" alt="Contato por e-mail">
+  </a>
   <a href="https://vianux.com.br">
     <img src="https://img.shields.io/badge/ViaNux-Soluções%20Tecnológicas-2563EB?style=for-the-badge" alt="ViaNux">
   </a>
@@ -82,8 +88,8 @@ Além dos projetos públicos, desenvolvo e evoluo **sistemas corporativos e inst
 
 ### Cases sanitizados
 
-- [Plataforma de Chamados IPEM/RN](case-studies/chamados-ipem-rn.md) — backend Java/Spring, RBAC, segurança, concorrência, migrations, testes e CI.
-- [NetWatch RN](case-studies/netwatch-rn.md) — monitoramento de redes com Django, PostgreSQL, Docker, testes e decisões de confiabilidade.
+- [Plataforma de Chamados IPEM/RN](https://github.com/LindembergueFrank/LindembergueFrank/blob/main/case-studies/chamados-ipem-rn.md) — backend Java/Spring, RBAC, segurança, concorrência, migrations, testes e CI.
+- [NetWatch RN](https://github.com/LindembergueFrank/LindembergueFrank/blob/main/case-studies/netwatch-rn.md) — monitoramento de redes com Django, PostgreSQL, Docker, testes e decisões de confiabilidade.
 
 > Por responsabilidade com segurança e confidencialidade, código, credenciais e dados institucionais não são publicados. Os cases apresentam apenas decisões técnicas e aprendizados que podem ser compartilhados publicamente.
 
